@@ -1,4 +1,3 @@
-[![lorenzos logo wow](https://github.com/Lorenzos-Linux/.github/blob/main/Lorenzos%20Logo.png?raw=true)
 # Welcome to Lorenzos Linux!
 (Pro tip: It's pronounced Lorenzos, not Lorenzo's or Lorenz OS)
 
